@@ -63,12 +63,3 @@ The model is based on GAN architecture, specifically designed for detecting mani
 The model achieves an accuracy of **XX%** on the test dataset. Below are some sample results:
 
 ![Generated Fake Images using StyleGAN](./image.png)
-
-- Sample Result 1  
-- Sample Result 2  
-
-## Contributing
-We welcome contributions from the community. Please refer to the `CONTRIBUTING.md` for guidelines on how to contribute.
-
-## License
-This project is licensed under the **MIT License** - see the `LICENSE` file for details.
