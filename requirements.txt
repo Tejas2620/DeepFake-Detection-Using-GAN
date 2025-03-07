@@ -8,6 +8,7 @@ face-recognition
 face-recognition-models
 filelock
 Flask
+gdown
 imageio
 itsdangerous
 Jinja2
