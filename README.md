@@ -41,7 +41,7 @@ To train our model effectively, we have used **StyleGAN** to generate fake image
 2. Place the models in the appropriate directory.  
 3. Run the prediction script:
    ```sh
-   python predict.py
+   python server.py
    ```
 
 ## Features
