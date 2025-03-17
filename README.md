@@ -61,7 +61,3 @@ The model is based on GAN architecture, specifically designed for detecting mani
 The model achieves an accuracy of **87.58%** on the test dataset. Below are some sample results:
 
 ![Generated Fake Images using StyleGAN](./image.png)
-
-- Sample Result 1  
-- Sample Result 2  
-
