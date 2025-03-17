@@ -12,9 +12,7 @@ To train our model effectively, we have used **StyleGAN** to generate fake image
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Installation
 1. Clone the repository:
    ```sh
@@ -67,8 +65,3 @@ The model achieves an accuracy of **XX%** on the test dataset. Below are some sa
 - Sample Result 1  
 - Sample Result 2  
 
-## Contributing
-We welcome contributions from the community. Please refer to the `CONTRIBUTING.md` for guidelines on how to contribute.
-
-## License
-This project is licensed under the **MIT License** - see the `LICENSE` file for details.
