@@ -58,7 +58,7 @@ The dataset used for training and testing includes a diverse set of DeepFake and
 The model is based on GAN architecture, specifically designed for detecting manipulated videos. Detailed explanation of the model architecture and training process can be found [here](#).
 
 ## Results
-The model achieves an accuracy of **XX%** on the test dataset. Below are some sample results:
+The model achieves an accuracy of **87.58%** on the test dataset. Below are some sample results:
 
 ![Generated Fake Images using StyleGAN](./image.png)
 
